@@ -571,12 +571,13 @@ button[type="submit"] {
         justify-content: unset;
         text-align: center;
     }
-    .mrhqlogo {
+   .mrhqlogo {
         height: auto;
-        width: 65%;
+        width: 80%;
         margin-bottom: 8%;
         padding: 5px 10px;
     }
+
     .flex-container {
         flex-direction: column-reverse;
     }
@@ -605,8 +606,9 @@ button[type="submit"] {
     .flex-parent-nzm {
         flex-direction: column;
     }
-    .work-exp-nzm,
-    .work-exp-tinz {
+   .work-exp-nzm,
+    .work-exp-tinz,
+    .box-one {
         background-color: #414141;
         padding: 5px 10px;
         border-radius: 4px;
